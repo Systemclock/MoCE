@@ -1,0 +1,8 @@
+BDGPkl_Result:
+kl Loss:0.01
+expert Loss:0.001
+ACC_MEAN:98.72(0.38)
+NMI_MEAN:95.61(1.16)
+ARI_MEAN:96.83(0.9299999999999999)
+
+

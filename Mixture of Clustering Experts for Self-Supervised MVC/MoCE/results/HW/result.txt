@@ -1,0 +1,252 @@
+HWkl_Result:
+kl Loss:0.001
+expert Loss:0.001
+ACC_MEAN:63.05(0.0)
+NMI_MEAN:60.550000000000004(0.0)
+ARI_MEAN:47.52(0.0)
+
+HWkl_Result:
+kl Loss:0.001
+expert Loss:0.01
+ACC_MEAN:64.7(0.0)
+NMI_MEAN:62.57(0.0)
+ARI_MEAN:52.190000000000005(0.0)
+
+HWkl_Result:
+kl Loss:0.001
+expert Loss:0.1
+ACC_MEAN:65.25(0.0)
+NMI_MEAN:66.12(0.0)
+ARI_MEAN:55.2(0.0)
+
+HWkl_Result:
+kl Loss:0.001
+expert Loss:1
+ACC_MEAN:65.9(0.0)
+NMI_MEAN:62.29(0.0)
+ARI_MEAN:50.449999999999996(0.0)
+
+HWkl_Result:
+kl Loss:0.001
+expert Loss:10
+ACC_MEAN:48.9(0.0)
+NMI_MEAN:46.53(0.0)
+ARI_MEAN:31.790000000000003(0.0)
+
+HWkl_Result:
+kl Loss:0.001
+expert Loss:100
+ACC_MEAN:57.45(0.0)
+NMI_MEAN:58.08(0.0)
+ARI_MEAN:43.39(0.0)
+
+HWkl_Result:
+kl Loss:0.01
+expert Loss:0.001
+ACC_MEAN:94.6(0.0)
+NMI_MEAN:89.66(0.0)
+ARI_MEAN:88.61(0.0)
+
+HWkl_Result:
+kl Loss:0.01
+expert Loss:0.01
+ACC_MEAN:94.25(0.0)
+NMI_MEAN:89.25(0.0)
+ARI_MEAN:87.76(0.0)
+
+HWkl_Result:
+kl Loss:0.01
+expert Loss:0.1
+ACC_MEAN:97.0(0.0)
+NMI_MEAN:94.08999999999999(0.0)
+ARI_MEAN:93.58(0.0)
+
+HWkl_Result:
+kl Loss:0.01
+expert Loss:1
+ACC_MEAN:97.6(0.0)
+NMI_MEAN:94.64(0.0)
+ARI_MEAN:94.75(0.0)
+
+HWkl_Result:
+kl Loss:0.01
+expert Loss:10
+ACC_MEAN:97.05(0.0)
+NMI_MEAN:93.56(0.0)
+ARI_MEAN:93.57(0.0)
+
+HWkl_Result:
+kl Loss:0.01
+expert Loss:100
+ACC_MEAN:97.8(0.0)
+NMI_MEAN:95.13000000000001(0.0)
+ARI_MEAN:95.19(0.0)
+
+HWkl_Result:
+kl Loss:0.1
+expert Loss:0.001
+ACC_MEAN:77.8(0.0)
+NMI_MEAN:81.71000000000001(0.0)
+ARI_MEAN:72.58(0.0)
+
+HWkl_Result:
+kl Loss:0.1
+expert Loss:0.01
+ACC_MEAN:94.45(0.0)
+NMI_MEAN:89.9(0.0)
+ARI_MEAN:88.25(0.0)
+
+HWkl_Result:
+kl Loss:0.1
+expert Loss:0.1
+ACC_MEAN:95.05(0.0)
+NMI_MEAN:90.24(0.0)
+ARI_MEAN:89.37(0.0)
+
+HWkl_Result:
+kl Loss:0.1
+expert Loss:1
+ACC_MEAN:81.75(0.0)
+NMI_MEAN:87.3(0.0)
+ARI_MEAN:79.71000000000001(0.0)
+
+HWkl_Result:
+kl Loss:0.1
+expert Loss:10
+ACC_MEAN:97.85000000000001(0.0)
+NMI_MEAN:95.04(0.0)
+ARI_MEAN:95.28(0.0)
+
+HWkl_Result:
+kl Loss:0.1
+expert Loss:100
+ACC_MEAN:98.4(0.0)
+NMI_MEAN:96.11(0.0)
+ARI_MEAN:96.46000000000001(0.0)
+
+HWkl_Result:
+kl Loss:1
+expert Loss:0.001
+ACC_MEAN:78.0(0.0)
+NMI_MEAN:81.26(0.0)
+ARI_MEAN:72.35000000000001(0.0)
+
+HWkl_Result:
+kl Loss:1
+expert Loss:0.01
+ACC_MEAN:78.25(0.0)
+NMI_MEAN:79.11(0.0)
+ARI_MEAN:71.1(0.0)
+
+HWkl_Result:
+kl Loss:1
+expert Loss:0.1
+ACC_MEAN:78.55(0.0)
+NMI_MEAN:80.31(0.0)
+ARI_MEAN:72.02(0.0)
+
+HWkl_Result:
+kl Loss:1
+expert Loss:1
+ACC_MEAN:78.85(0.0)
+NMI_MEAN:83.05(0.0)
+ARI_MEAN:74.25(0.0)
+
+HWkl_Result:
+kl Loss:1
+expert Loss:10
+ACC_MEAN:95.45(0.0)
+NMI_MEAN:91.46(0.0)
+ARI_MEAN:90.44(0.0)
+
+HWkl_Result:
+kl Loss:1
+expert Loss:100
+ACC_MEAN:80.5(0.0)
+NMI_MEAN:85.71(0.0)
+ARI_MEAN:77.3(0.0)
+
+HWkl_Result:
+kl Loss:10
+expert Loss:0.001
+ACC_MEAN:78.2(0.0)
+NMI_MEAN:79.08(0.0)
+ARI_MEAN:70.63000000000001(0.0)
+
+HWkl_Result:
+kl Loss:10
+expert Loss:0.01
+ACC_MEAN:77.8(0.0)
+NMI_MEAN:80.9(0.0)
+ARI_MEAN:72.03(0.0)
+
+HWkl_Result:
+kl Loss:10
+expert Loss:0.1
+ACC_MEAN:78.25(0.0)
+NMI_MEAN:80.5(0.0)
+ARI_MEAN:72.11(0.0)
+
+HWkl_Result:
+kl Loss:10
+expert Loss:1
+ACC_MEAN:78.55(0.0)
+NMI_MEAN:82.5(0.0)
+ARI_MEAN:73.78(0.0)
+
+HWkl_Result:
+kl Loss:10
+expert Loss:10
+ACC_MEAN:80.30000000000001(0.0)
+NMI_MEAN:85.56(0.0)
+ARI_MEAN:77.25(0.0)
+
+HWkl_Result:
+kl Loss:10
+expert Loss:100
+ACC_MEAN:96.15(0.0)
+NMI_MEAN:92.35(0.0)
+ARI_MEAN:91.62(0.0)
+
+HWkl_Result:
+kl Loss:100
+expert Loss:0.001
+ACC_MEAN:77.75(0.0)
+NMI_MEAN:80.06(0.0)
+ARI_MEAN:71.61999999999999(0.0)
+
+HWkl_Result:
+kl Loss:100
+expert Loss:0.01
+ACC_MEAN:78.05(0.0)
+NMI_MEAN:80.2(0.0)
+ARI_MEAN:71.84(0.0)
+
+HWkl_Result:
+kl Loss:100
+expert Loss:0.1
+ACC_MEAN:78.0(0.0)
+NMI_MEAN:81.3(0.0)
+ARI_MEAN:72.52(0.0)
+
+HWkl_Result:
+kl Loss:100
+expert Loss:1
+ACC_MEAN:77.95(0.0)
+NMI_MEAN:80.76(0.0)
+ARI_MEAN:72.28999999999999(0.0)
+
+HWkl_Result:
+kl Loss:100
+expert Loss:10
+ACC_MEAN:77.45(0.0)
+NMI_MEAN:80.77(0.0)
+ARI_MEAN:71.67(0.0)
+
+HWkl_Result:
+kl Loss:100
+expert Loss:100
+ACC_MEAN:79.7(0.0)
+NMI_MEAN:81.52000000000001(0.0)
+ARI_MEAN:73.92999999999999(0.0)
+

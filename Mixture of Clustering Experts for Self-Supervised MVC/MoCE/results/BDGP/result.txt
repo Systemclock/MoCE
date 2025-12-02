@@ -1,0 +1,252 @@
+BDGPkl_Result:
+kl Loss:0.001
+expert Loss:0.001
+ACC_MEAN:72.39999999999999(0.0)
+NMI_MEAN:48.88(0.0)
+ARI_MEAN:47.18(0.0)
+
+BDGPkl_Result:
+kl Loss:0.001
+expert Loss:0.01
+ACC_MEAN:77.8(0.0)
+NMI_MEAN:56.71000000000001(0.0)
+ARI_MEAN:56.910000000000004(0.0)
+
+BDGPkl_Result:
+kl Loss:0.001
+expert Loss:0.1
+ACC_MEAN:63.44(0.0)
+NMI_MEAN:49.86(0.0)
+ARI_MEAN:46.42(0.0)
+
+BDGPkl_Result:
+kl Loss:0.001
+expert Loss:1
+ACC_MEAN:66.24(0.0)
+NMI_MEAN:44.84(0.0)
+ARI_MEAN:40.82(0.0)
+
+BDGPkl_Result:
+kl Loss:0.001
+expert Loss:10
+ACC_MEAN:56.24(0.0)
+NMI_MEAN:34.02(0.0)
+ARI_MEAN:29.53(0.0)
+
+BDGPkl_Result:
+kl Loss:0.001
+expert Loss:100
+ACC_MEAN:47.96(0.0)
+NMI_MEAN:31.6(0.0)
+ARI_MEAN:23.43(0.0)
+
+BDGPkl_Result:
+kl Loss:0.01
+expert Loss:0.001
+ACC_MEAN:98.68(0.0)
+NMI_MEAN:95.63000000000001(0.0)
+ARI_MEAN:96.73(0.0)
+
+BDGPkl_Result:
+kl Loss:0.01
+expert Loss:0.01
+ACC_MEAN:98.11999999999999(0.0)
+NMI_MEAN:93.97999999999999(0.0)
+ARI_MEAN:95.37(0.0)
+
+BDGPkl_Result:
+kl Loss:0.01
+expert Loss:0.1
+ACC_MEAN:98.32(0.0)
+NMI_MEAN:94.87(0.0)
+ARI_MEAN:95.85000000000001(0.0)
+
+BDGPkl_Result:
+kl Loss:0.01
+expert Loss:1
+ACC_MEAN:94.8(0.0)
+NMI_MEAN:84.78(0.0)
+ARI_MEAN:87.52(0.0)
+
+BDGPkl_Result:
+kl Loss:0.01
+expert Loss:10
+ACC_MEAN:93.12(0.0)
+NMI_MEAN:81.67(0.0)
+ARI_MEAN:83.8(0.0)
+
+BDGPkl_Result:
+kl Loss:0.01
+expert Loss:100
+ACC_MEAN:80.80000000000001(0.0)
+NMI_MEAN:59.8(0.0)
+ARI_MEAN:60.050000000000004(0.0)
+
+BDGPkl_Result:
+kl Loss:0.1
+expert Loss:0.001
+ACC_MEAN:98.44000000000001(0.0)
+NMI_MEAN:94.82000000000001(0.0)
+ARI_MEAN:96.15(0.0)
+
+BDGPkl_Result:
+kl Loss:0.1
+expert Loss:0.01
+ACC_MEAN:97.72(0.0)
+NMI_MEAN:92.82000000000001(0.0)
+ARI_MEAN:94.37(0.0)
+
+BDGPkl_Result:
+kl Loss:0.1
+expert Loss:0.1
+ACC_MEAN:98.4(0.0)
+NMI_MEAN:95.17999999999999(0.0)
+ARI_MEAN:96.04(0.0)
+
+BDGPkl_Result:
+kl Loss:0.1
+expert Loss:1
+ACC_MEAN:97.56(0.0)
+NMI_MEAN:92.5(0.0)
+ARI_MEAN:93.99(0.0)
+
+BDGPkl_Result:
+kl Loss:0.1
+expert Loss:10
+ACC_MEAN:97.6(0.0)
+NMI_MEAN:92.58999999999999(0.0)
+ARI_MEAN:94.08(0.0)
+
+BDGPkl_Result:
+kl Loss:0.1
+expert Loss:100
+ACC_MEAN:96.24000000000001(0.0)
+NMI_MEAN:88.51(0.0)
+ARI_MEAN:90.89(0.0)
+
+BDGPkl_Result:
+kl Loss:1
+expert Loss:0.001
+ACC_MEAN:97.6(0.0)
+NMI_MEAN:92.44(0.0)
+ARI_MEAN:94.08(0.0)
+
+BDGPkl_Result:
+kl Loss:1
+expert Loss:0.01
+ACC_MEAN:97.72(0.0)
+NMI_MEAN:92.60000000000001(0.0)
+ARI_MEAN:94.37(0.0)
+
+BDGPkl_Result:
+kl Loss:1
+expert Loss:0.1
+ACC_MEAN:98.56(0.0)
+NMI_MEAN:95.41(0.0)
+ARI_MEAN:96.45(0.0)
+
+BDGPkl_Result:
+kl Loss:1
+expert Loss:1
+ACC_MEAN:98.28(0.0)
+NMI_MEAN:94.34(0.0)
+ARI_MEAN:95.75(0.0)
+
+BDGPkl_Result:
+kl Loss:1
+expert Loss:10
+ACC_MEAN:97.56(0.0)
+NMI_MEAN:92.63(0.0)
+ARI_MEAN:93.97999999999999(0.0)
+
+BDGPkl_Result:
+kl Loss:1
+expert Loss:100
+ACC_MEAN:97.52(0.0)
+NMI_MEAN:92.39(0.0)
+ARI_MEAN:93.88(0.0)
+
+BDGPkl_Result:
+kl Loss:10
+expert Loss:0.001
+ACC_MEAN:97.52(0.0)
+NMI_MEAN:92.17999999999999(0.0)
+ARI_MEAN:93.88(0.0)
+
+BDGPkl_Result:
+kl Loss:10
+expert Loss:0.01
+ACC_MEAN:97.48(0.0)
+NMI_MEAN:92.30000000000001(0.0)
+ARI_MEAN:93.78999999999999(0.0)
+
+BDGPkl_Result:
+kl Loss:10
+expert Loss:0.1
+ACC_MEAN:97.72(0.0)
+NMI_MEAN:93.17999999999999(0.0)
+ARI_MEAN:94.38(0.0)
+
+BDGPkl_Result:
+kl Loss:10
+expert Loss:1
+ACC_MEAN:97.56(0.0)
+NMI_MEAN:92.39(0.0)
+ARI_MEAN:93.99(0.0)
+
+BDGPkl_Result:
+kl Loss:10
+expert Loss:10
+ACC_MEAN:98.48(0.0)
+NMI_MEAN:95.03(0.0)
+ARI_MEAN:96.25(0.0)
+
+BDGPkl_Result:
+kl Loss:10
+expert Loss:100
+ACC_MEAN:97.52(0.0)
+NMI_MEAN:92.42(0.0)
+ARI_MEAN:93.89(0.0)
+
+BDGPkl_Result:
+kl Loss:100
+expert Loss:0.001
+ACC_MEAN:97.48(0.0)
+NMI_MEAN:92.25(0.0)
+ARI_MEAN:93.78(0.0)
+
+BDGPkl_Result:
+kl Loss:100
+expert Loss:0.01
+ACC_MEAN:97.52(0.0)
+NMI_MEAN:92.41(0.0)
+ARI_MEAN:93.89(0.0)
+
+BDGPkl_Result:
+kl Loss:100
+expert Loss:0.1
+ACC_MEAN:97.84(0.0)
+NMI_MEAN:93.15(0.0)
+ARI_MEAN:94.67(0.0)
+
+BDGPkl_Result:
+kl Loss:100
+expert Loss:1
+ACC_MEAN:97.96000000000001(0.0)
+NMI_MEAN:93.4(0.0)
+ARI_MEAN:94.98(0.0)
+
+BDGPkl_Result:
+kl Loss:100
+expert Loss:10
+ACC_MEAN:97.64(0.0)
+NMI_MEAN:92.52(0.0)
+ARI_MEAN:94.17(0.0)
+
+BDGPkl_Result:
+kl Loss:100
+expert Loss:100
+ACC_MEAN:98.11999999999999(0.0)
+NMI_MEAN:93.85(0.0)
+ARI_MEAN:95.36(0.0)
+

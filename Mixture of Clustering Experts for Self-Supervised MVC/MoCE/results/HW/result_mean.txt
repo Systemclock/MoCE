@@ -1,0 +1,14 @@
+HWkl_Result:
+kl Loss:0.1
+expert Loss:100
+ACC_MEAN:97.2(0.0)
+NMI_MEAN:93.94(0.0)
+ARI_MEAN:93.96(0.0)
+
+HWkl_Result:
+kl Loss:0.1
+expert Loss:100
+ACC_MEAN:97.84(0.62)
+NMI_MEAN:95.12(1.2)
+ARI_MEAN:95.26(1.3299999999999998)
+
